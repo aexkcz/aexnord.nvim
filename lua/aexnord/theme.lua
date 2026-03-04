@@ -359,7 +359,7 @@ theme.loadTreeSitter = function()
   treesitter["@comment"] = { fg = aexnord.aexnord3_gui_bright, style = italic }
   -- Special comment tags (requires treesitter comment parser)
   treesitter["@comment.todo"] = { fg = aexnord.aexnord13_gui, style = bold_italic }
-  treesitter["@comment.note"] = { fg = aexnord.aexnord10_gui, style = bold }
+  treesitter["@comment.note"] = { fg = aexnord.aexnord13_gui, style = bold }
   treesitter["@comment.warning"] = { fg = aexnord.aexnord12_gui, style = bold }
   treesitter["@comment.error"] = { fg = aexnord.aexnord11_gui, style = bold }
   treesitter["@conditional"] = { fg = aexnord.aexnord9_gui, style = italic }
