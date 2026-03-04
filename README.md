@@ -3,6 +3,7 @@
 ![img aexnord](./example.png)
 
 ### based on:
+
 ## shaunsingh/nord.nvim
 ## Features
 
