@@ -198,6 +198,7 @@ theme.loadEditor = function()
     editor.SignColumn = { fg = aexnord.aexnord4_gui, bg = aexnord.none }
   else
     editor.Normal = { fg = aexnord.aexnord4_gui, bg = aexnord.aexnord0_gui } -- normal text and background color
+    editor.NormalNC = { fg = aexnord.aexnord4_gui, bg = aexnord.aexnord1_gui } -- inactive window
     editor.CursorLineSign = { fg = aexnord.aexnord4_gui, bg = aexnord.aexnord2_gui }
     editor.SignColumn = { fg = aexnord.aexnord4_gui, bg = aexnord.aexnord0_gui }
   end
