@@ -1,7 +1,9 @@
 local aexnord = {
 	--16 colors
-	black ="#3a3a3a", -- aexnord0 in palette
+	black ="#222222", -- aexnord0 in palette
+	-- black ="#3a3a3a", -- aexnord0 in palette
 	dark_gray = "#444444", -- aexnord1 in palette
+	dark_gray = "#3a3a3a", -- aexnord1 in palette
 	gray = "#4e4e4e", -- aexnord2 in palette
   light_gray = "#585858", -- aexnord3 in palette
 	lighter_gray = "#797979", -- aexnord16_gui_ghost in palette
